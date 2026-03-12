@@ -1,0 +1,12 @@
+{
+    "language.name": "Turkish",
+    "language.region": "Turkey",
+    "language.code": "tr-tr",
+    "tooltip.shenanigans.raw_ores.slow_smelt": "Smelts way slower in a normal furnace now.",
+    "tooltip.shenanigans.hold_shift": "Daha fazla bilgi için Shift'e bas.",
+    "tooltip.shenanigans.raw_ores.blast": "Use Blast Furnace for faster smelting.",
+    "tooltip.shenanigans.item_frames.1": "Place an item and",
+    "tooltip.shenanigans.item_frames.2": "Crouch + Right Click to toggle invisible item frame.",
+    "tooltip.shenanigans.clocks.day_cycle": "Gündüzler 40, geceler ise 20 dakika sürüyor!",
+    "tooltip.shenanigans.foods.raw": "Can only be cooked on a Smoker or Campfire!"
+}
