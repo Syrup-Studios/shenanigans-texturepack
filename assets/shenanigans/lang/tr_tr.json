@@ -8,5 +8,6 @@
     "tooltip.shenanigans.item_frames.1": "Place an item and",
     "tooltip.shenanigans.item_frames.2": "Crouch + Right Click to toggle invisible item frame.",
     "tooltip.shenanigans.clocks.day_cycle": "Gündüzler 40, geceler ise 20 dakika sürüyor!",
-    "tooltip.shenanigans.foods.raw": "Can only be cooked on a Smoker or Campfire!"
+    "tooltip.shenanigans.foods.raw": "Can only be cooked on a Smoker or Campfire!",
+    "tooltip.shenanigans.auroraslanters.amethyst_lantern.range": "Has a range up to 32 blocks!"
 }
