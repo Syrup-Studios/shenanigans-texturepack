@@ -8,5 +8,6 @@
     "tooltip.shenanigans.item_frames.1": "Platziere einen Gegenstand und",
     "tooltip.shenanigans.item_frames.2": "Schleichen + Rechtsklick, um den Rahmen unsichtbar zu machen.",
     "tooltip.shenanigans.clocks.day_cycle": "Die Tage dauern 40 und die Nächte 20 Minuten!",
-    "tooltip.shenanigans.foods.raw": "Can only be cooked on a Smoker or Campfire!"
+    "tooltip.shenanigans.foods.raw": "Can only be cooked on a Smoker or Campfire!",
+    "tooltip.shenanigans.auroraslanters.amethyst_lantern.range": "Has a range up to 32 blocks!"
 }
